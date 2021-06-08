@@ -1,0 +1,4 @@
+github.com/go-vk-api/vk v0.0.0-20200129183856-014d9b8adc96 h1:gFOrXsbjC+XvHIVMx608V/mRVZwmU9xofR1Vht9p3Zg=
+github.com/go-vk-api/vk v0.0.0-20200129183856-014d9b8adc96/go.mod h1:UeBKPsuqp+KSBDtC7gr+Lng+TEaoFXT/mpOs6Tj7tFQ=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
